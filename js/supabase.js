@@ -4,8 +4,8 @@
 //  (los encuentras en supabase.com > tu proyecto > Settings > API)
 // ============================================================
 
-const SUPABASE_URL  = "https://TU_PROYECTO.supabase.co";
-const SUPABASE_KEY  = "TU_ANON_KEY";
+const SUPABASE_URL  = "https://uroyjelrdwvjufrqctyy.supabase.co";
+const SUPABASE_KEY  = "sb_publishable_HYTpqNF_IS8zsKFTeHd8gA_Sl9Qk69N";
 
 const headers = {
   "Content-Type":  "application/json",
