@@ -4,7 +4,7 @@
 //  (los encuentras en supabase.com > tu proyecto > Settings > API)
 // ============================================================
 
-const SUPABASE_URL  = "https://uroyjelrdwvjufrqctyy.supabase.co";
+const SUPABASE_URL  = "https://uroyjelrdwvjufrqctyy.supabase.co/rest/v1/";
 const SUPABASE_KEY  = "sb_publishable_HYTpqNF_IS8zsKFTeHd8gA_Sl9Qk69N";
 
 const headers = {
